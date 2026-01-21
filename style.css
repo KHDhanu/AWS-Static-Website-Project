@@ -1,0 +1,50 @@
+/* Reset default browser styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Full screen soft pastel background */
+body {
+    height: 100vh;
+    background: linear-gradient(135deg, #f9c5d1, #fddde6);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4a2c2a;
+}
+
+/* Center content */
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+/* Inspiring line */
+.quote {
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+    font-style: italic;
+}
+
+/* Main heading */
+h1 {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+/* Name */
+h2 {
+    font-size: 1.6rem;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+/* Footer text */
+.footer {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
