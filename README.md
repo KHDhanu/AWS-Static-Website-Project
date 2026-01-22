@@ -29,19 +29,19 @@ The website features:
 - **style.css**  
   Contains all the styling for the website, such as layout, fonts, colors, alignment, and background image configuration to give the page a clean pastel look.
 
-- **screenshots**
+- **screenshots/**
   The `screenshots/` folder contains step-by-step screenshots showing:
-  0. S3 bucket creation
-  1. S3 bucket list
-  2. Bucket policy
-  3. Static website hosting properties
-  4. Website viewed via S3 object URL 
-  5. Website viewed via website endpoint
-  6. CloudFront distribution enabled
-  7. CloudFront distribution creation
-  8. Website viewed via CloudFront URL
+  1. S3 bucket creation
+  2. S3 bucket list
+  3. Bucket policy
+  4. Static website hosting properties
+  5. Website viewed via S3 object URL 
+  6. Website viewed via website endpoint
+  7. CloudFront distribution enabled
+  8. CloudFront distribution creation
+  9. Website viewed via CloudFront URL
 
-- **certification.pdf**
+- **certification.pdf** 
   This project was completed as part of the Udacity AWS Cloud Fundamentals Nanodegree program and has been successfully reviewed and certified.
 
 ## Instructions to View
